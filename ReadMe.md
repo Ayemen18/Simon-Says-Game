@@ -4,7 +4,7 @@ A modern web-based implementation of the classic memory game "Simon Says" built 
 
 ## 🚀 Live Demo
 
-[👉 Play the Game Here](https://your-username.github.io/simon-game/)
+[👉 Play the Game Here](https://ayemen18.github.io/Simon-Says-Game/)
 
 ## ✨ Features
 
