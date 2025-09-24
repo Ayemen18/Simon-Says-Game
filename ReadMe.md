@@ -2,13 +2,9 @@
 
 A modern web-based implementation of the classic memory game "Simon Says" built with vanilla JavaScript, HTML, and CSS.
 
-![Game Screenshot](assets/screenshots/game-screenshot.png) 
-*[Add your screenshot here]*
-
 ## 🚀 Live Demo
 
-[👉 Play the Game Here](https://your-username.github.io/simon-game/) 
-*[If you deploy it on GitHub Pages]*
+[👉 Play the Game Here](https://your-username.github.io/simon-game/)
 
 ## ✨ Features
 
@@ -38,10 +34,10 @@ Want to run this locally? Follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/Ayemen18/Simon-Says-Game.git
 
 # Navigate to the project directory
-cd simon-game
+cd Simon-Says-Game
 
 # Open index.html in your browser
 open index.html
